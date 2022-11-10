@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nagrawal63
+- 👋 Hi, I’m Nishchay Agrawal(@nagrawal63)
 - 👀 I’m interested in research on the intersection of operating systems and computer networking
 - 🌱 I’m currently studying masters in computer science(with specialisation in Computer Networking) at University of California, Irvine
 - 📫 How to reach me agrawal.nishchay5@gmail.com
